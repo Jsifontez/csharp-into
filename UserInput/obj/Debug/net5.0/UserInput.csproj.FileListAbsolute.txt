@@ -1,0 +1,16 @@
+/home/jsifontez/Documents/projects/csharp/UserInput/bin/Debug/net5.0/UserInput
+/home/jsifontez/Documents/projects/csharp/UserInput/bin/Debug/net5.0/UserInput.deps.json
+/home/jsifontez/Documents/projects/csharp/UserInput/bin/Debug/net5.0/UserInput.runtimeconfig.json
+/home/jsifontez/Documents/projects/csharp/UserInput/bin/Debug/net5.0/UserInput.runtimeconfig.dev.json
+/home/jsifontez/Documents/projects/csharp/UserInput/bin/Debug/net5.0/UserInput.dll
+/home/jsifontez/Documents/projects/csharp/UserInput/bin/Debug/net5.0/ref/UserInput.dll
+/home/jsifontez/Documents/projects/csharp/UserInput/bin/Debug/net5.0/UserInput.pdb
+/home/jsifontez/Documents/projects/csharp/UserInput/obj/Debug/net5.0/UserInput.csprojAssemblyReference.cache
+/home/jsifontez/Documents/projects/csharp/UserInput/obj/Debug/net5.0/UserInput.GeneratedMSBuildEditorConfig.editorconfig
+/home/jsifontez/Documents/projects/csharp/UserInput/obj/Debug/net5.0/UserInput.AssemblyInfoInputs.cache
+/home/jsifontez/Documents/projects/csharp/UserInput/obj/Debug/net5.0/UserInput.AssemblyInfo.cs
+/home/jsifontez/Documents/projects/csharp/UserInput/obj/Debug/net5.0/UserInput.csproj.CoreCompileInputs.cache
+/home/jsifontez/Documents/projects/csharp/UserInput/obj/Debug/net5.0/UserInput.dll
+/home/jsifontez/Documents/projects/csharp/UserInput/obj/Debug/net5.0/ref/UserInput.dll
+/home/jsifontez/Documents/projects/csharp/UserInput/obj/Debug/net5.0/UserInput.pdb
+/home/jsifontez/Documents/projects/csharp/UserInput/obj/Debug/net5.0/UserInput.genruntimeconfig.cache

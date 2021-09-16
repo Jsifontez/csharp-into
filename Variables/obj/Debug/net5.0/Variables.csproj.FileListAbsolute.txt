@@ -1,0 +1,16 @@
+/home/jsifontez/Documents/projects/csharp/Variables/bin/Debug/net5.0/Variables
+/home/jsifontez/Documents/projects/csharp/Variables/bin/Debug/net5.0/Variables.deps.json
+/home/jsifontez/Documents/projects/csharp/Variables/bin/Debug/net5.0/Variables.runtimeconfig.json
+/home/jsifontez/Documents/projects/csharp/Variables/bin/Debug/net5.0/Variables.runtimeconfig.dev.json
+/home/jsifontez/Documents/projects/csharp/Variables/bin/Debug/net5.0/Variables.dll
+/home/jsifontez/Documents/projects/csharp/Variables/bin/Debug/net5.0/ref/Variables.dll
+/home/jsifontez/Documents/projects/csharp/Variables/bin/Debug/net5.0/Variables.pdb
+/home/jsifontez/Documents/projects/csharp/Variables/obj/Debug/net5.0/Variables.csprojAssemblyReference.cache
+/home/jsifontez/Documents/projects/csharp/Variables/obj/Debug/net5.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/home/jsifontez/Documents/projects/csharp/Variables/obj/Debug/net5.0/Variables.AssemblyInfoInputs.cache
+/home/jsifontez/Documents/projects/csharp/Variables/obj/Debug/net5.0/Variables.AssemblyInfo.cs
+/home/jsifontez/Documents/projects/csharp/Variables/obj/Debug/net5.0/Variables.csproj.CoreCompileInputs.cache
+/home/jsifontez/Documents/projects/csharp/Variables/obj/Debug/net5.0/Variables.dll
+/home/jsifontez/Documents/projects/csharp/Variables/obj/Debug/net5.0/ref/Variables.dll
+/home/jsifontez/Documents/projects/csharp/Variables/obj/Debug/net5.0/Variables.pdb
+/home/jsifontez/Documents/projects/csharp/Variables/obj/Debug/net5.0/Variables.genruntimeconfig.cache

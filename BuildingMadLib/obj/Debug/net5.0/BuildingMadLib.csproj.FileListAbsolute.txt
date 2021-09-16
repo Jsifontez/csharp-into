@@ -1,0 +1,16 @@
+/home/jsifontez/Documents/projects/csharp/BuildingMadLib/bin/Debug/net5.0/BuildingMadLib
+/home/jsifontez/Documents/projects/csharp/BuildingMadLib/bin/Debug/net5.0/BuildingMadLib.deps.json
+/home/jsifontez/Documents/projects/csharp/BuildingMadLib/bin/Debug/net5.0/BuildingMadLib.runtimeconfig.json
+/home/jsifontez/Documents/projects/csharp/BuildingMadLib/bin/Debug/net5.0/BuildingMadLib.runtimeconfig.dev.json
+/home/jsifontez/Documents/projects/csharp/BuildingMadLib/bin/Debug/net5.0/BuildingMadLib.dll
+/home/jsifontez/Documents/projects/csharp/BuildingMadLib/bin/Debug/net5.0/ref/BuildingMadLib.dll
+/home/jsifontez/Documents/projects/csharp/BuildingMadLib/bin/Debug/net5.0/BuildingMadLib.pdb
+/home/jsifontez/Documents/projects/csharp/BuildingMadLib/obj/Debug/net5.0/BuildingMadLib.csprojAssemblyReference.cache
+/home/jsifontez/Documents/projects/csharp/BuildingMadLib/obj/Debug/net5.0/BuildingMadLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/jsifontez/Documents/projects/csharp/BuildingMadLib/obj/Debug/net5.0/BuildingMadLib.AssemblyInfoInputs.cache
+/home/jsifontez/Documents/projects/csharp/BuildingMadLib/obj/Debug/net5.0/BuildingMadLib.AssemblyInfo.cs
+/home/jsifontez/Documents/projects/csharp/BuildingMadLib/obj/Debug/net5.0/BuildingMadLib.csproj.CoreCompileInputs.cache
+/home/jsifontez/Documents/projects/csharp/BuildingMadLib/obj/Debug/net5.0/BuildingMadLib.dll
+/home/jsifontez/Documents/projects/csharp/BuildingMadLib/obj/Debug/net5.0/ref/BuildingMadLib.dll
+/home/jsifontez/Documents/projects/csharp/BuildingMadLib/obj/Debug/net5.0/BuildingMadLib.pdb
+/home/jsifontez/Documents/projects/csharp/BuildingMadLib/obj/Debug/net5.0/BuildingMadLib.genruntimeconfig.cache

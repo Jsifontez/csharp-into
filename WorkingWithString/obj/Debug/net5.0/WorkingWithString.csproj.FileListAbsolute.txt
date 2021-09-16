@@ -1,0 +1,16 @@
+/home/jsifontez/Documents/projects/csharp/WorkingWithString/bin/Debug/net5.0/WorkingWithString
+/home/jsifontez/Documents/projects/csharp/WorkingWithString/bin/Debug/net5.0/WorkingWithString.deps.json
+/home/jsifontez/Documents/projects/csharp/WorkingWithString/bin/Debug/net5.0/WorkingWithString.runtimeconfig.json
+/home/jsifontez/Documents/projects/csharp/WorkingWithString/bin/Debug/net5.0/WorkingWithString.runtimeconfig.dev.json
+/home/jsifontez/Documents/projects/csharp/WorkingWithString/bin/Debug/net5.0/WorkingWithString.dll
+/home/jsifontez/Documents/projects/csharp/WorkingWithString/bin/Debug/net5.0/ref/WorkingWithString.dll
+/home/jsifontez/Documents/projects/csharp/WorkingWithString/bin/Debug/net5.0/WorkingWithString.pdb
+/home/jsifontez/Documents/projects/csharp/WorkingWithString/obj/Debug/net5.0/WorkingWithString.csprojAssemblyReference.cache
+/home/jsifontez/Documents/projects/csharp/WorkingWithString/obj/Debug/net5.0/WorkingWithString.GeneratedMSBuildEditorConfig.editorconfig
+/home/jsifontez/Documents/projects/csharp/WorkingWithString/obj/Debug/net5.0/WorkingWithString.AssemblyInfoInputs.cache
+/home/jsifontez/Documents/projects/csharp/WorkingWithString/obj/Debug/net5.0/WorkingWithString.AssemblyInfo.cs
+/home/jsifontez/Documents/projects/csharp/WorkingWithString/obj/Debug/net5.0/WorkingWithString.csproj.CoreCompileInputs.cache
+/home/jsifontez/Documents/projects/csharp/WorkingWithString/obj/Debug/net5.0/WorkingWithString.dll
+/home/jsifontez/Documents/projects/csharp/WorkingWithString/obj/Debug/net5.0/ref/WorkingWithString.dll
+/home/jsifontez/Documents/projects/csharp/WorkingWithString/obj/Debug/net5.0/WorkingWithString.pdb
+/home/jsifontez/Documents/projects/csharp/WorkingWithString/obj/Debug/net5.0/WorkingWithString.genruntimeconfig.cache

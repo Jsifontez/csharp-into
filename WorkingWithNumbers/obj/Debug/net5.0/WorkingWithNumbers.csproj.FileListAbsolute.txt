@@ -1,0 +1,16 @@
+/home/jsifontez/Documents/projects/csharp/WorkingWithNumbers/obj/Debug/net5.0/WorkingWithNumbers.csprojAssemblyReference.cache
+/home/jsifontez/Documents/projects/csharp/WorkingWithNumbers/obj/Debug/net5.0/WorkingWithNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/jsifontez/Documents/projects/csharp/WorkingWithNumbers/obj/Debug/net5.0/WorkingWithNumbers.AssemblyInfoInputs.cache
+/home/jsifontez/Documents/projects/csharp/WorkingWithNumbers/obj/Debug/net5.0/WorkingWithNumbers.AssemblyInfo.cs
+/home/jsifontez/Documents/projects/csharp/WorkingWithNumbers/obj/Debug/net5.0/WorkingWithNumbers.csproj.CoreCompileInputs.cache
+/home/jsifontez/Documents/projects/csharp/WorkingWithNumbers/bin/Debug/net5.0/WorkingWithNumbers
+/home/jsifontez/Documents/projects/csharp/WorkingWithNumbers/bin/Debug/net5.0/WorkingWithNumbers.deps.json
+/home/jsifontez/Documents/projects/csharp/WorkingWithNumbers/bin/Debug/net5.0/WorkingWithNumbers.runtimeconfig.json
+/home/jsifontez/Documents/projects/csharp/WorkingWithNumbers/bin/Debug/net5.0/WorkingWithNumbers.runtimeconfig.dev.json
+/home/jsifontez/Documents/projects/csharp/WorkingWithNumbers/bin/Debug/net5.0/WorkingWithNumbers.dll
+/home/jsifontez/Documents/projects/csharp/WorkingWithNumbers/bin/Debug/net5.0/ref/WorkingWithNumbers.dll
+/home/jsifontez/Documents/projects/csharp/WorkingWithNumbers/bin/Debug/net5.0/WorkingWithNumbers.pdb
+/home/jsifontez/Documents/projects/csharp/WorkingWithNumbers/obj/Debug/net5.0/WorkingWithNumbers.dll
+/home/jsifontez/Documents/projects/csharp/WorkingWithNumbers/obj/Debug/net5.0/ref/WorkingWithNumbers.dll
+/home/jsifontez/Documents/projects/csharp/WorkingWithNumbers/obj/Debug/net5.0/WorkingWithNumbers.pdb
+/home/jsifontez/Documents/projects/csharp/WorkingWithNumbers/obj/Debug/net5.0/WorkingWithNumbers.genruntimeconfig.cache

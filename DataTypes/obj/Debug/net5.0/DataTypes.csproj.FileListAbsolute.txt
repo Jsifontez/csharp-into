@@ -1,0 +1,16 @@
+/home/jsifontez/Documents/projects/csharp/DataTypes/bin/Debug/net5.0/DataTypes
+/home/jsifontez/Documents/projects/csharp/DataTypes/bin/Debug/net5.0/DataTypes.deps.json
+/home/jsifontez/Documents/projects/csharp/DataTypes/bin/Debug/net5.0/DataTypes.runtimeconfig.json
+/home/jsifontez/Documents/projects/csharp/DataTypes/bin/Debug/net5.0/DataTypes.runtimeconfig.dev.json
+/home/jsifontez/Documents/projects/csharp/DataTypes/bin/Debug/net5.0/DataTypes.dll
+/home/jsifontez/Documents/projects/csharp/DataTypes/bin/Debug/net5.0/ref/DataTypes.dll
+/home/jsifontez/Documents/projects/csharp/DataTypes/bin/Debug/net5.0/DataTypes.pdb
+/home/jsifontez/Documents/projects/csharp/DataTypes/obj/Debug/net5.0/DataTypes.csprojAssemblyReference.cache
+/home/jsifontez/Documents/projects/csharp/DataTypes/obj/Debug/net5.0/DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/home/jsifontez/Documents/projects/csharp/DataTypes/obj/Debug/net5.0/DataTypes.AssemblyInfoInputs.cache
+/home/jsifontez/Documents/projects/csharp/DataTypes/obj/Debug/net5.0/DataTypes.AssemblyInfo.cs
+/home/jsifontez/Documents/projects/csharp/DataTypes/obj/Debug/net5.0/DataTypes.csproj.CoreCompileInputs.cache
+/home/jsifontez/Documents/projects/csharp/DataTypes/obj/Debug/net5.0/DataTypes.dll
+/home/jsifontez/Documents/projects/csharp/DataTypes/obj/Debug/net5.0/ref/DataTypes.dll
+/home/jsifontez/Documents/projects/csharp/DataTypes/obj/Debug/net5.0/DataTypes.pdb
+/home/jsifontez/Documents/projects/csharp/DataTypes/obj/Debug/net5.0/DataTypes.genruntimeconfig.cache
