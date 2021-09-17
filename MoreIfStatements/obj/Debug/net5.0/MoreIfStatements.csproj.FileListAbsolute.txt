@@ -1,0 +1,16 @@
+/home/jsifontez/Documents/projects/csharp/MoreIfStatements/bin/Debug/net5.0/MoreIfStatements
+/home/jsifontez/Documents/projects/csharp/MoreIfStatements/bin/Debug/net5.0/MoreIfStatements.deps.json
+/home/jsifontez/Documents/projects/csharp/MoreIfStatements/bin/Debug/net5.0/MoreIfStatements.runtimeconfig.json
+/home/jsifontez/Documents/projects/csharp/MoreIfStatements/bin/Debug/net5.0/MoreIfStatements.runtimeconfig.dev.json
+/home/jsifontez/Documents/projects/csharp/MoreIfStatements/bin/Debug/net5.0/MoreIfStatements.dll
+/home/jsifontez/Documents/projects/csharp/MoreIfStatements/bin/Debug/net5.0/ref/MoreIfStatements.dll
+/home/jsifontez/Documents/projects/csharp/MoreIfStatements/bin/Debug/net5.0/MoreIfStatements.pdb
+/home/jsifontez/Documents/projects/csharp/MoreIfStatements/obj/Debug/net5.0/MoreIfStatements.csprojAssemblyReference.cache
+/home/jsifontez/Documents/projects/csharp/MoreIfStatements/obj/Debug/net5.0/MoreIfStatements.GeneratedMSBuildEditorConfig.editorconfig
+/home/jsifontez/Documents/projects/csharp/MoreIfStatements/obj/Debug/net5.0/MoreIfStatements.AssemblyInfoInputs.cache
+/home/jsifontez/Documents/projects/csharp/MoreIfStatements/obj/Debug/net5.0/MoreIfStatements.AssemblyInfo.cs
+/home/jsifontez/Documents/projects/csharp/MoreIfStatements/obj/Debug/net5.0/MoreIfStatements.csproj.CoreCompileInputs.cache
+/home/jsifontez/Documents/projects/csharp/MoreIfStatements/obj/Debug/net5.0/MoreIfStatements.dll
+/home/jsifontez/Documents/projects/csharp/MoreIfStatements/obj/Debug/net5.0/ref/MoreIfStatements.dll
+/home/jsifontez/Documents/projects/csharp/MoreIfStatements/obj/Debug/net5.0/MoreIfStatements.pdb
+/home/jsifontez/Documents/projects/csharp/MoreIfStatements/obj/Debug/net5.0/MoreIfStatements.genruntimeconfig.cache

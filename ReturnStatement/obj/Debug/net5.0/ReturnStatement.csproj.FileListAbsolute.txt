@@ -1,0 +1,16 @@
+/home/jsifontez/Documents/projects/csharp/ReturnStatement/obj/Debug/net5.0/ReturnStatement.csprojAssemblyReference.cache
+/home/jsifontez/Documents/projects/csharp/ReturnStatement/obj/Debug/net5.0/ReturnStatement.GeneratedMSBuildEditorConfig.editorconfig
+/home/jsifontez/Documents/projects/csharp/ReturnStatement/obj/Debug/net5.0/ReturnStatement.AssemblyInfoInputs.cache
+/home/jsifontez/Documents/projects/csharp/ReturnStatement/obj/Debug/net5.0/ReturnStatement.AssemblyInfo.cs
+/home/jsifontez/Documents/projects/csharp/ReturnStatement/obj/Debug/net5.0/ReturnStatement.csproj.CoreCompileInputs.cache
+/home/jsifontez/Documents/projects/csharp/ReturnStatement/bin/Debug/net5.0/ReturnStatement
+/home/jsifontez/Documents/projects/csharp/ReturnStatement/bin/Debug/net5.0/ReturnStatement.deps.json
+/home/jsifontez/Documents/projects/csharp/ReturnStatement/bin/Debug/net5.0/ReturnStatement.runtimeconfig.json
+/home/jsifontez/Documents/projects/csharp/ReturnStatement/bin/Debug/net5.0/ReturnStatement.runtimeconfig.dev.json
+/home/jsifontez/Documents/projects/csharp/ReturnStatement/bin/Debug/net5.0/ReturnStatement.dll
+/home/jsifontez/Documents/projects/csharp/ReturnStatement/bin/Debug/net5.0/ref/ReturnStatement.dll
+/home/jsifontez/Documents/projects/csharp/ReturnStatement/bin/Debug/net5.0/ReturnStatement.pdb
+/home/jsifontez/Documents/projects/csharp/ReturnStatement/obj/Debug/net5.0/ReturnStatement.dll
+/home/jsifontez/Documents/projects/csharp/ReturnStatement/obj/Debug/net5.0/ref/ReturnStatement.dll
+/home/jsifontez/Documents/projects/csharp/ReturnStatement/obj/Debug/net5.0/ReturnStatement.pdb
+/home/jsifontez/Documents/projects/csharp/ReturnStatement/obj/Debug/net5.0/ReturnStatement.genruntimeconfig.cache

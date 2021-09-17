@@ -1,0 +1,16 @@
+/home/jsifontez/Documents/projects/csharp/Methods/bin/Debug/net5.0/Methods
+/home/jsifontez/Documents/projects/csharp/Methods/bin/Debug/net5.0/Methods.deps.json
+/home/jsifontez/Documents/projects/csharp/Methods/bin/Debug/net5.0/Methods.runtimeconfig.json
+/home/jsifontez/Documents/projects/csharp/Methods/bin/Debug/net5.0/Methods.runtimeconfig.dev.json
+/home/jsifontez/Documents/projects/csharp/Methods/bin/Debug/net5.0/Methods.dll
+/home/jsifontez/Documents/projects/csharp/Methods/bin/Debug/net5.0/ref/Methods.dll
+/home/jsifontez/Documents/projects/csharp/Methods/bin/Debug/net5.0/Methods.pdb
+/home/jsifontez/Documents/projects/csharp/Methods/obj/Debug/net5.0/Methods.csprojAssemblyReference.cache
+/home/jsifontez/Documents/projects/csharp/Methods/obj/Debug/net5.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/jsifontez/Documents/projects/csharp/Methods/obj/Debug/net5.0/Methods.AssemblyInfoInputs.cache
+/home/jsifontez/Documents/projects/csharp/Methods/obj/Debug/net5.0/Methods.AssemblyInfo.cs
+/home/jsifontez/Documents/projects/csharp/Methods/obj/Debug/net5.0/Methods.csproj.CoreCompileInputs.cache
+/home/jsifontez/Documents/projects/csharp/Methods/obj/Debug/net5.0/Methods.dll
+/home/jsifontez/Documents/projects/csharp/Methods/obj/Debug/net5.0/ref/Methods.dll
+/home/jsifontez/Documents/projects/csharp/Methods/obj/Debug/net5.0/Methods.pdb
+/home/jsifontez/Documents/projects/csharp/Methods/obj/Debug/net5.0/Methods.genruntimeconfig.cache

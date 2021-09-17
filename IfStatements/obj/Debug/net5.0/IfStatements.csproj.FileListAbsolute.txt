@@ -1,0 +1,16 @@
+/home/jsifontez/Documents/projects/csharp/IfStatements/bin/Debug/net5.0/IfStatements
+/home/jsifontez/Documents/projects/csharp/IfStatements/bin/Debug/net5.0/IfStatements.deps.json
+/home/jsifontez/Documents/projects/csharp/IfStatements/bin/Debug/net5.0/IfStatements.runtimeconfig.json
+/home/jsifontez/Documents/projects/csharp/IfStatements/bin/Debug/net5.0/IfStatements.runtimeconfig.dev.json
+/home/jsifontez/Documents/projects/csharp/IfStatements/bin/Debug/net5.0/IfStatements.dll
+/home/jsifontez/Documents/projects/csharp/IfStatements/bin/Debug/net5.0/ref/IfStatements.dll
+/home/jsifontez/Documents/projects/csharp/IfStatements/bin/Debug/net5.0/IfStatements.pdb
+/home/jsifontez/Documents/projects/csharp/IfStatements/obj/Debug/net5.0/IfStatements.csprojAssemblyReference.cache
+/home/jsifontez/Documents/projects/csharp/IfStatements/obj/Debug/net5.0/IfStatements.GeneratedMSBuildEditorConfig.editorconfig
+/home/jsifontez/Documents/projects/csharp/IfStatements/obj/Debug/net5.0/IfStatements.AssemblyInfoInputs.cache
+/home/jsifontez/Documents/projects/csharp/IfStatements/obj/Debug/net5.0/IfStatements.AssemblyInfo.cs
+/home/jsifontez/Documents/projects/csharp/IfStatements/obj/Debug/net5.0/IfStatements.csproj.CoreCompileInputs.cache
+/home/jsifontez/Documents/projects/csharp/IfStatements/obj/Debug/net5.0/IfStatements.dll
+/home/jsifontez/Documents/projects/csharp/IfStatements/obj/Debug/net5.0/ref/IfStatements.dll
+/home/jsifontez/Documents/projects/csharp/IfStatements/obj/Debug/net5.0/IfStatements.pdb
+/home/jsifontez/Documents/projects/csharp/IfStatements/obj/Debug/net5.0/IfStatements.genruntimeconfig.cache
