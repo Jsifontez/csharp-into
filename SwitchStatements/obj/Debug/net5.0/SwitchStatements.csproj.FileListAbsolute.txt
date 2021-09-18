@@ -1,0 +1,16 @@
+/home/jsifontez/Documents/projects/csharp/SwitchStatements/bin/Debug/net5.0/SwitchStatements
+/home/jsifontez/Documents/projects/csharp/SwitchStatements/bin/Debug/net5.0/SwitchStatements.deps.json
+/home/jsifontez/Documents/projects/csharp/SwitchStatements/bin/Debug/net5.0/SwitchStatements.runtimeconfig.json
+/home/jsifontez/Documents/projects/csharp/SwitchStatements/bin/Debug/net5.0/SwitchStatements.runtimeconfig.dev.json
+/home/jsifontez/Documents/projects/csharp/SwitchStatements/bin/Debug/net5.0/SwitchStatements.dll
+/home/jsifontez/Documents/projects/csharp/SwitchStatements/bin/Debug/net5.0/ref/SwitchStatements.dll
+/home/jsifontez/Documents/projects/csharp/SwitchStatements/bin/Debug/net5.0/SwitchStatements.pdb
+/home/jsifontez/Documents/projects/csharp/SwitchStatements/obj/Debug/net5.0/SwitchStatements.csprojAssemblyReference.cache
+/home/jsifontez/Documents/projects/csharp/SwitchStatements/obj/Debug/net5.0/SwitchStatements.GeneratedMSBuildEditorConfig.editorconfig
+/home/jsifontez/Documents/projects/csharp/SwitchStatements/obj/Debug/net5.0/SwitchStatements.AssemblyInfoInputs.cache
+/home/jsifontez/Documents/projects/csharp/SwitchStatements/obj/Debug/net5.0/SwitchStatements.AssemblyInfo.cs
+/home/jsifontez/Documents/projects/csharp/SwitchStatements/obj/Debug/net5.0/SwitchStatements.csproj.CoreCompileInputs.cache
+/home/jsifontez/Documents/projects/csharp/SwitchStatements/obj/Debug/net5.0/SwitchStatements.dll
+/home/jsifontez/Documents/projects/csharp/SwitchStatements/obj/Debug/net5.0/ref/SwitchStatements.dll
+/home/jsifontez/Documents/projects/csharp/SwitchStatements/obj/Debug/net5.0/SwitchStatements.pdb
+/home/jsifontez/Documents/projects/csharp/SwitchStatements/obj/Debug/net5.0/SwitchStatements.genruntimeconfig.cache

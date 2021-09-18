@@ -1,0 +1,16 @@
+/home/jsifontez/Documents/projects/csharp/BetterCalculator/bin/Debug/net5.0/BetterCalculator
+/home/jsifontez/Documents/projects/csharp/BetterCalculator/bin/Debug/net5.0/BetterCalculator.deps.json
+/home/jsifontez/Documents/projects/csharp/BetterCalculator/bin/Debug/net5.0/BetterCalculator.runtimeconfig.json
+/home/jsifontez/Documents/projects/csharp/BetterCalculator/bin/Debug/net5.0/BetterCalculator.runtimeconfig.dev.json
+/home/jsifontez/Documents/projects/csharp/BetterCalculator/bin/Debug/net5.0/BetterCalculator.dll
+/home/jsifontez/Documents/projects/csharp/BetterCalculator/bin/Debug/net5.0/ref/BetterCalculator.dll
+/home/jsifontez/Documents/projects/csharp/BetterCalculator/bin/Debug/net5.0/BetterCalculator.pdb
+/home/jsifontez/Documents/projects/csharp/BetterCalculator/obj/Debug/net5.0/BetterCalculator.csprojAssemblyReference.cache
+/home/jsifontez/Documents/projects/csharp/BetterCalculator/obj/Debug/net5.0/BetterCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/jsifontez/Documents/projects/csharp/BetterCalculator/obj/Debug/net5.0/BetterCalculator.AssemblyInfoInputs.cache
+/home/jsifontez/Documents/projects/csharp/BetterCalculator/obj/Debug/net5.0/BetterCalculator.AssemblyInfo.cs
+/home/jsifontez/Documents/projects/csharp/BetterCalculator/obj/Debug/net5.0/BetterCalculator.csproj.CoreCompileInputs.cache
+/home/jsifontez/Documents/projects/csharp/BetterCalculator/obj/Debug/net5.0/BetterCalculator.dll
+/home/jsifontez/Documents/projects/csharp/BetterCalculator/obj/Debug/net5.0/ref/BetterCalculator.dll
+/home/jsifontez/Documents/projects/csharp/BetterCalculator/obj/Debug/net5.0/BetterCalculator.pdb
+/home/jsifontez/Documents/projects/csharp/BetterCalculator/obj/Debug/net5.0/BetterCalculator.genruntimeconfig.cache
